@@ -43,7 +43,11 @@ Website about Google Glass developed during the HTML5 course from "_[Curso em Vi
 ![contact](https://user-images.githubusercontent.com/68092946/88848376-62333e80-d1b6-11ea-8d08-0366516922b5.gif)
 
 <br /> 
+<br />
+
+**It runs locally. Check it out by clicking [HERE](https://alessandraburckhalter.github.io/Google-Glass/).**
 <br /> 
+<br />
 
 # Credits
 All content on the website was created and made available by teacher Gustavo Guanabara from "_[Curso em Video](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)_".
