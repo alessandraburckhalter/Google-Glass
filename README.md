@@ -1,15 +1,20 @@
-# Google Glass
+# <div align="center">Google Glass :eyeglasses:</div>
+<p align="center"> <img src="https://img.shields.io/github/license/alessandraburckhalter/Google-Glass-Website?color=%23D3D3D3"> <img src="https://img.shields.io/github/last-commit/alessandraburckhalter/Google-Glass-Website?color=%23D3D3D3"> <img src="https://img.shields.io/badge/language-portuguese-%23D3D3D3"></p>
+<br /> 
+
+
+## :book: About the project
 Website about Google Glass developed during the HTML5 course from "_[Curso em Video](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)_". Its content is in Brazilian Portuguese. The website has interactive images, texts, form, photos, music and video. 
 <br /> 
 <br /> 
-# Tecnologies used
+## :hammer_and_wrench: Used Technologies 
 * HTML5
 * CSS3
 * JavaScript
 <br /> 
 
 
-# Result
+## 🖥 Preview
 :pushpin: On the Home page, in addition to the small texts divided on the page, a table with technical specifications was created and an image with interactive caption was inserted. At the top of the page, an interactive menu has been inserted which, when the mouse is moved over, shows the icon for that page. This interactive menu is reproduced on all pages, but only the icon corresponding to the current page remains fixed.
 
 ![home](https://user-images.githubusercontent.com/68092946/88847926-c1dd1a00-d1b5-11ea-95a4-868f627fe6a8.gif)
@@ -45,17 +50,23 @@ Website about Google Glass developed during the HTML5 course from "_[Curso em Vi
 <br /> 
 <br />
 
-**It runs locally. Check it out by clicking [HERE](https://alessandraburckhalter.github.io/Google-Glass/).**
+#### **:gear: It runs locally. Check it out by clicking [HERE](https://alessandraburckhalter.github.io/Google-Glass/).**
 <br /> 
 <br />
 
-# Credits
+## :medal_military: Credits
 All content on the website was created and made available by teacher Gustavo Guanabara from "_[Curso em Video](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)_".
 <br /> 
 <br /> 
-# License
-[MIT License](https://opensource.org/licenses/MIT).
+## :page_with_curl: License
+This project is under MIT license. See the [license](https://opensource.org/licenses/MIT) for more information.
 <br /> 
 <br /> 
-# Let's connect!
+
+## :wave: Let's connect!
 Get in touch on [LinkedIn](https://www.linkedin.com/in/alessandra-burckhalter/).
+<br /> 
+<br /> 
+
+****
+####  <div align="center">Made with <span style="color: #e25555;">&#9829;</span> by Alessandra Burckhalter</div>
